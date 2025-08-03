@@ -1,4 +1,4 @@
-# Inbrowser-Proctoring-2
+# Inbrowser-Proctoring
 
 ## Introduction
 **Inbrowser Proctoring** is an effective online proctoring application designed to ensure the integrity of examinations by monitoring test-takers in real-time. By leveraging advanced technologies such as video, audio, and screen recording, combined with sophisticated AI algorithms, this system effectively supervises exams and helps prevent cheating. The application analyzes audio and visual data to identify suspicious behaviors, allowing for the immediate detection of anomalies that may indicate dishonest practices. This proactive approach not only helps uphold the standards of the examination process but also provides peace of mind for educators and institutions.
