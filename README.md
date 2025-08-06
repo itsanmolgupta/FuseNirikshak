@@ -44,15 +44,6 @@ The key contributors for this project and their specific roles are as follows:
 
 Furthermore, the contributors were not limited to their particular fields; they also supported each other throughout the project, fostering collaboration and enhancing the overall quality of the work.
 
-
-## Project Architecture
-
-
-# Status
-## Known Issue
-## High Level Next Steps
-
-
 # Usage
 ## Installation
 To begin this project, use the included `Makefile`
@@ -121,4 +112,4 @@ In the **backend/**, the project is organized as follows:
 - **Final HTML Report**: The final .html report rendered in the dashboard is present in the [templates/](./backend/dashboard/templates/) directory.
 
 ## Project Slide
-The project slide can be viewed here: https://docs.google.com/presentation/d/18kOXtkdF7Le6mBPoGyHQkpITYSSSDWyI/edit?usp=sharing&ouid=110664732358570615535&rtpof=true&sd=true
+The project slide can be viewed here: [Slide](https://docs.google.com/presentation/d/18kOXtkdF7Le6mBPoGyHQkpITYSSSDWyI/edit?usp=sharing&ouid=110664732358570615535&rtpof=true&sd=true)
