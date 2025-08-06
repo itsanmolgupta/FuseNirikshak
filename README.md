@@ -120,6 +120,5 @@ In the **backend/**, the project is organized as follows:
 - **Models**: The pretrained and finetuned models for audio and video processing are stored in [model/](./backend/audio_model/audio/model/) directory.
 - **Final HTML Report**: The final .html report rendered in the dashboard is present in the [templates/](./backend/dashboard/templates/) directory.
 
-# Results
-## Metrics Used
-## Evaluation Results
+## Project Slide
+The project slide can be viewed here: https://docs.google.com/presentation/d/18kOXtkdF7Le6mBPoGyHQkpITYSSSDWyI/edit?usp=sharing&ouid=110664732358570615535&rtpof=true&sd=true
